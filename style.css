@@ -1,0 +1,40 @@
+* {
+	margin:20px;
+	padding: 0px;
+	font-size:14px ;
+	font-family:time new roman;
+	color:#FFFFFF;
+}
+
+h2{
+	font-size: 60px;
+	text-align: center;
+
+}
+
+p{
+	text-align: justify;
+	padding-bottom: 30px;
+}
+	.p1 {
+	margin-right: 100px;
+	background-color: #9932CC;
+	overflow: none;
+	padding-left: 10px;
+	padding-right: 50px;
+
+}
+	.p2 {
+	margin-left: 100px;
+	background-color: #6B8E23;
+	overflow: none;
+	padding-right:  10px;
+	padding-left:50px;
+}
+
+p img {
+	width:40px;
+	height: 40px;
+	padding-bottom: 20px;
+	overflow: none;
+}
